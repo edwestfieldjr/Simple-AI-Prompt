@@ -1,0 +1,1 @@
+A simple command line AI prompt using the [Transformers API](https://huggingface.co/docs/transformers/index) package and [Google's flan-t5-xl](https://huggingface.co/google/flan-t5-xl) language model, based upon [Code to the Moon's](https://github.com/Me163/) [video tutorial](https://youtu.be/tL1zltXuHO8).
